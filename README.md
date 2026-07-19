@@ -5,7 +5,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.imgur.com/DnxgTFN.png" width="170"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/250613472?v=4" width="170"/>
 
 ```lua
 yBook@GitHub
