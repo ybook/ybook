@@ -8,7 +8,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/250613472?v=4" width="170"/>
 
 ```lua
-yBook@GitHub
+yboook.sss@email4.in
 ▔▔▔▔▔▔▔▔▔▔
 OS: Windows 11
 Shell: Windows PowerShell
