@@ -33,8 +33,6 @@ Learning:
 
 <br clear="left"/>
 
-[![Discord](https://badgen.net/badge/icon/discord/171A21?icon=discord&label)](https://discord.com/users/1054629497904836681)
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2F2F2F&section=footer"/>
