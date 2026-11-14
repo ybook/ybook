@@ -22,17 +22,8 @@ Languages: Portuguese Brazilian
 
 ---
 
-
-<br clear="left"/>
-
-```zsh
-> open links
-```
-
 <br clear="left"/>
 
 <br clear="left"/>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2F2F2F&section=footer"/>
