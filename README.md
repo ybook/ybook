@@ -9,7 +9,7 @@
 
 ```lua
 zylisboa2026@gmail.com
-▔▔▔▔▔▔▔▔▔▔
+▔▔▔▔▔▔▔▔▔▔▔▔▔
 OS: Windows 11
 Shell: Windows PowerShell
 IDE: VScode
