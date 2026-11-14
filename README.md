@@ -21,7 +21,6 @@ Languages: Portuguese Brazilian
 <br clear="left"/>
 
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ybook&theme=discord_old_blurple&animation=sequence) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ybook&theme=discord_old_blurple&animation=sequence)
 
 <br clear="left"/>
 
